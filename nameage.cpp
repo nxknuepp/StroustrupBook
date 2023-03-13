@@ -8,5 +8,6 @@ int main()
     int age;
     cin >> name >> age;
     cout << name << "  " << age << "\n";
+    char* word = 'nick';
     return 0;
 }
